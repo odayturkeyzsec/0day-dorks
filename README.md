@@ -7,10 +7,10 @@ Contact Me : https://t.me/odayturkeyzsec
 How to use it, please see the Readme.md file if you have downloaded the 0Day Dorks Tool
 There is no captcha in every search, only you register an account to take and put the API KEY in the key.txt file
 
+![image](https://github.com/user-attachments/assets/9f447961-4459-4e9e-ab01-d5f16170de82)
+![image](https://github.com/user-attachments/assets/de09632d-8cfc-43b2-bbf5-104be4dcce6f)
 
-![image](https://github.com/user-attachments/assets/4e0762d3-1d6e-484a-8a19-ec7afed9e4e2)
 
-![image](https://github.com/user-attachments/assets/56d5f031-a3d0-4220-a80a-5a20699311be)
 
 
 ```
