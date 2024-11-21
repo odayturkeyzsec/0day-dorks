@@ -1,6 +1,6 @@
 # Google Dorks 0day 
 
-GoogleDorks Toolkit is a Python script designed to help security researchers and penetration testers automate Google dorking for finding potential vulnerabilities and information about a target domain. The tool utilizes Google search queries, also known as Google hacks, to identify possible security issues and gather valuable information.
+Google Dorks 0day is a Python script designed to help security researchers and penetration testers automate Google dorking for finding potential vulnerabilities and information about a target domain. The tool utilizes Google search queries, also known as Google hacks, to identify possible security issues and gather valuable information.
 
 Contact Me : https://t.me/odayturkeyzsec
 
